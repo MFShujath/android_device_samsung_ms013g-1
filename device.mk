@@ -48,4 +48,4 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
 endif
 
 # Inherit from qcom-common
-$(call inherit-product, device/samsung/msm8226-common/msm8226.mk)
+$(call inherit-product, device/samsung/ms01-common/ms01.mk)
